@@ -13,4 +13,4 @@ The form includes the following fields:
 5. **City**: A dropdown select box for choosing a city (Kolkata, Delhi, Mumbai, Bangalore, Outstation).
 6. **Address**: A textarea for entering the user's address.
 7. **Submit Button**: A button to submit the form.
-<img src="images/form.png" alt="Form Preview" />
+<img src="form.png" alt="Form Preview" />
